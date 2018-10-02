@@ -1,6 +1,6 @@
 # Reactiveforms
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3. This program shows two way binding form from controller/component to frontend and vice-versa, how to create formarrays easily with for loop(*ngFor*) and custom and in-built validations.
 
 ## Development server
 
